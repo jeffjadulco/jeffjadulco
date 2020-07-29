@@ -1,4 +1,4 @@
-![header image](header-gradient.png)
+![header image](https://jeffjadulco.com/images/header-gradient.png)
 
 :earth_asia: [Personal website](https://jeffjadulco.com)
 
