@@ -6,6 +6,4 @@
 
 :baby_chick: [Twitter](https://twitter.com/jeffjadulco)
 
-:camera: [Instagram](https://www.instagram.com/jeffjadulco)
-
-:computer: [Dev.to](https://dev.to/jeffjadulco)
+:space_invader: [Polywork](https://www.polywork.com/jeffjadulco)
